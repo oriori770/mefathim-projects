@@ -1,6 +1,8 @@
 import
 
 
+
+
 class RandomWalk
     def __init__(self, dimension, step):
         self.dim = dimension
