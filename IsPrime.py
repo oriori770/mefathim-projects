@@ -8,10 +8,8 @@ print(is_prime(17))
 print(is_prime(15))
 # print(is_prime("a"))
 
-termios(hjhj)
 
 
 
 
 
-g
